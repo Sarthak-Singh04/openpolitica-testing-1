@@ -15,7 +15,6 @@ import { Input } from "@/components/ui/input";
 import { MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-import { formSchema } from "@/constants";
 
 const ConversationPage: React.FC = () => {
   const router = useRouter();
